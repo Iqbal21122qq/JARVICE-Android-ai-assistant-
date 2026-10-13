@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Ring -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:pathData="M54,20 A34,34 0 1,1 53.9,20 Z" />
+    <!-- Secondary Dashed Segment Ring -->
+    <path
+        android:strokeColor="#00B0FF"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,28 A26,26 0 1,1 53.9,28 Z" />
+    <!-- Triangular Power Core -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,34 L69,60 L39,60 Z" />
+    <!-- Inner Core Dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,49 A5,5 0 1,1 53.9,49 Z" />
+    <!-- Radiating Arc Tech Nodes -->
+    <path
+        android:fillColor="#80D8FF"
+        android:pathData="M52,14 H56 V24 H52 Z M52,84 H56 V94 H52 Z M14,52 H24 V56 H14 Z M84,52 H94 V56 H84 Z" />
+</vector>

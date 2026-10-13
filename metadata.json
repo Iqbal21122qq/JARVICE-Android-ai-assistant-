@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Core",
+  "description": "Autonomous AI Assistant with Root Shell Control, Hybrid Intelligence, Voice Interface, and Self-Healing Automation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
